@@ -12,3 +12,6 @@ import './style.css';
 // controller.Init()
 
 alert('hellobbb')
+
+let message: string = 'adb';
+message = '111'
