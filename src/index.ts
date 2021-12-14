@@ -13,5 +13,5 @@ import './style.css';
 
 alert('hellobbb')
 
-let message: string = 'adb';
+let message = 'adb';
 message = '111'
